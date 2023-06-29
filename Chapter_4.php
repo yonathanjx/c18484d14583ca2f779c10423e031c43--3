@@ -12,5 +12,6 @@ echo $apple;
 print "whats up git?";
 print "hello";
 print "hey";
+print "hey2";
 
 print "<br>";
